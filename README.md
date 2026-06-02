@@ -65,6 +65,12 @@ Project ini dibuat menggunakan:
 
 ```bash
 .
+├── Infografis Post Test LinkedIn/
+│   ├── 1.jpg
+│   ├── 2.jpg
+│   ├── 3.jpg
+│   ├── 4.jpg
+│   └── 5.jpg
 ├── assets/
 │   ├── grafik-1-kategori-a.png
 │   ├── grafik-2-kategori-b.png
@@ -281,8 +287,8 @@ Beberapa pengembangan yang bisa ditambahkan:
 
 ## 👤 Author
 
-[**Sharon Stefania**]
-NIM: 21060125120039
+[**Sharon Stefania**];
+NIM: 21060125120039;
 Universitas Diponegoro
 
 Rincian tugas setiap anggota kelompok
