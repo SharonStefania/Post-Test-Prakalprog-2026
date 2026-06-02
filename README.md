@@ -281,7 +281,7 @@ Beberapa pengembangan yang bisa ditambahkan:
 
 ## 👤 Author
 
-[Sharon Stefania]
+[**Sharon Stefania**]
 NIM: 21060125120039
 Universitas Diponegoro
 
