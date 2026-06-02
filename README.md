@@ -6,9 +6,9 @@
 
 <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python" alt="Build Status"></a>
 <a href="https://jupyter.org/"><img src="https://img.shields.io/badge/Jupyter-Notebook-orange?style=for-the-badge&logo=jupyter" alt="Build Status"></a>
-<a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=for-the-badge&logo=pandas" alt="Build Status"></a>
-![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-11557C?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-Statistical%20Plot-4C72B0?style=for-the-badge)
+<a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=for-the-badge&logo=pandas" alt="Build Status"></a> 
+<a href="https://matplotlib.org/"><img src="https://img.shields.io/badge/Matplotlib-Visualization-11557C?style=for-the-badge" alt="Build Status"></a>
+<a href="https://seaborn.pydata.org/"><img src="https://img.shields.io/badge/Seaborn-Statistical%20Plot-4C72B0?style=for-the-badge" alt="Build Status"></a>
 
 </div>
 
