@@ -65,7 +65,6 @@ Project ini dibuat menggunakan:
 
 ```bash
 .
-├── Kelas F_Student AI Usage.csv
 ├── assets/
 │   ├── grafik-1-kategori-a.png
 │   ├── grafik-2-kategori-b.png
@@ -78,6 +77,7 @@ Project ini dibuat menggunakan:
 ├── Grafik 3 (Kategori C).ipynb
 ├── Grafik 4 (Kategori D).ipynb
 ├── Grafik 5 (Gabungan).ipynb
+├── Infografis Post Test Instagram Story.png
 ├── Kelas F_Student AI Usage.csv
 └── README.md
 ```
