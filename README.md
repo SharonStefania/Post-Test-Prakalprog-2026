@@ -66,17 +66,17 @@ Project ini dibuat menggunakan:
 ```bash
 .
 ├── Kelas F_Student AI Usage.csv
-├── Grafik 1 (Kategori A).ipynb
-├── Grafik 2 (Kategori B).ipynb
-├── Grafik 3 (Kategori C).ipynb
-├── Grafik 4 (Kategori D).ipynb
-├── Grafik 5 (Gabungan).ipynb
 ├── assets/
 │   ├── grafik-1-kategori-a.png
 │   ├── grafik-2-kategori-b.png
 │   ├── grafik-3-kategori-c.png
 │   ├── grafik-4-kategori-d.png
 │   └── grafik-5-gabungan.png
+├── Grafik 1 (Kategori A).ipynb
+├── Grafik 2 (Kategori B).ipynb
+├── Grafik 3 (Kategori C).ipynb
+├── Grafik 4 (Kategori D).ipynb
+├── Grafik 5 (Gabungan).ipynb
 └── README.md
 ```
 
@@ -279,8 +279,16 @@ Beberapa pengembangan yang bisa ditambahkan:
 
 ## 👤 Author
 
-Project ini dibuat untuk kebutuhan pembelajaran analisis data dan visualisasi data menggunakan Python.
+[Sharon Stefania]
+NIM: 21060125120039
+Universitas Diponegoro
 
+Rincian tugas setiap anggota kelompok
+1. Wikandaru Baasithulkhoir	(21060125120020) : Pengodean Kategori A Grafik 1
+2. Lirza Yuli Panjaitan (21060125120022) : Pengodean Kategori B Grafik 2 dan Plot Grid
+3. Sharon Stefania (21060125120039) : Desain Infografis
+4. Johann Antonio (21060125120050) : Pengodean Kategori C Grafik 3
+5. Robi Irhamni (21060125120052) : Pengodean Kategori D Grafik 4
 ---
 
 ## 📄 License
