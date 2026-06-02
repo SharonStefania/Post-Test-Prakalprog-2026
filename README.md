@@ -2,7 +2,7 @@
 
 # 📊 Student AI Usage Visualization
 
-### Analisis dan visualisasi data penggunaan AI pada siswa/mahasiswa Kelas F
+### Analisis dan visualisasi data penggunaan AI pada pelajar
 
 <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python" alt="Build Status"></a>
 <a href="https://jupyter.org/"><img src="https://img.shields.io/badge/Jupyter-Notebook-orange?style=for-the-badge&logo=jupyter" alt="Build Status"></a>
