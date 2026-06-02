@@ -71,6 +71,7 @@ Project ini dibuat menggunakan:
 │   ├── 3.jpg
 │   ├── 4.jpg
 │   └── 5.jpg
+│   └── 6.jpg
 ├── assets/
 │   ├── grafik-1-kategori-a.png
 │   ├── grafik-2-kategori-b.png
