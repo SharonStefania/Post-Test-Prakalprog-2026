@@ -78,7 +78,6 @@ Project ini dibuat menggunakan:
 │   ├── grafik-3-kategori-c.png
 │   ├── grafik-4-kategori-d.png
 │   └── grafik-5-gabungan.png
-│   └── preview.png
 ├── Grafik 1 (Kategori A).ipynb
 ├── Grafik 2 (Kategori B).ipynb
 ├── Grafik 3 (Kategori C).ipynb
