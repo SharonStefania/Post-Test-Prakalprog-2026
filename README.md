@@ -65,13 +65,6 @@ Project ini dibuat menggunakan:
 
 ```bash
 .
-├── Infografis Post Test LinkedIn/
-│   ├── 1.jpg
-│   ├── 2.jpg
-│   ├── 3.jpg
-│   ├── 4.jpg
-│   └── 5.jpg
-│   └── 6.jpg
 ├── assets/
 │   ├── grafik-1-kategori-a.png
 │   ├── grafik-2-kategori-b.png
@@ -83,7 +76,8 @@ Project ini dibuat menggunakan:
 ├── Grafik 3 (Kategori C).ipynb
 ├── Grafik 4 (Kategori D).ipynb
 ├── Grafik 5 (Gabungan).ipynb
-├── Infografis Post Test Instagram Story.png
+├── Infografis Post Test LinkedIn.pdf
+├── Infografis Post Test Story Instagram.png
 ├── Kelas F_Student AI Usage.csv
 └── README.md
 ```
