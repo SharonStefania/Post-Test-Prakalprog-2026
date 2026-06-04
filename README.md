@@ -17,10 +17,6 @@
 ## 🖼️ Preview
 
 <p align="center">
-  <img src="assets/grafik-1-kategori-a.png" alt="Preview Grafik Gabungan Student AI Usage" width="850">
-  <img src="assets/grafik-2-kategori-b.png" alt="Preview Grafik Gabungan Student AI Usage" width="850">
-  <img src="assets/grafik-3-kategori-c.png" alt="Preview Grafik Gabungan Student AI Usage" width="850">
-  <img src="assets/grafik-4-kategori-d.png" alt="Preview Grafik Gabungan Student AI Usage" width="850">
   <img src="assets/grafik-5-gabungan.png" alt="Preview Grafik Gabungan Student AI Usage" width="850">
 </p>
 
