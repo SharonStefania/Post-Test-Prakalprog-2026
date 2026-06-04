@@ -288,8 +288,8 @@ Beberapa pengembangan yang bisa ditambahkan:
 
 ## 👤 Author
 
-**Lirza Yuli Panjaitan**
-NIM : 21060125120022
+**Sharon Stefania**
+NIM : 21060125120039
 Universitas Diponegoro
 
 Rincian tugas setiap anggota kelompok
